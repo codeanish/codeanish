@@ -1,7 +1,7 @@
 ### Hi, my name is Anish Patel.
 I am a software engineer and architect based out of London, UK and spend my time at work designing and building software solutions for my clients. In my personal time, I spend my time designing and building software for myself 😊.
 
-I'm currently in the process of building out a large TrueNAS Core system for my homelab for me to use for general storage and for my partner (a Youtuber) to use as a repository for her video content. 
+Right now, I'm learning Socket.io and making a planning poker app. Planning Poker feels like a good implementation use case for something like Socket.io and should prove to be a useful learning project. Once I feel comfortable with Socket.io, my goal is to start working on my own game. I've been playing games for years, but only just considered making my own.
 
 Follow me on Twitter [@codeanish](https://twitter.com/codeanish). I'm a regular tweeter about all technical things I'm working on and would love to hear about what you're working on.
 
