@@ -1,5 +1,5 @@
 ### Hi, my name is Anish Patel.
-I am a software engineer and architect based out of London, UK and spend my time at work designing and building software solutions for my clients. In my personal time, I spend my time designing and building software for myself 😊.
+I am a software engineer and architect based out of Seattle, USA (recently moved from London, UK) and spend my time at work designing and building software solutions for my clients. In my personal time, I spend my time designing and building software for myself 😊.
 
 Follow me on Twitter [@codeanish](https://twitter.com/codeanish). I'm a irregular tweeter about all technical things I'm working on and would love to hear about what you're working on.
 
